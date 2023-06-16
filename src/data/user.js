@@ -19,26 +19,29 @@ const INFO = {
 	},
 
 	about: {
-		title: "I’m Jihadul. I live in New Jersey, where I'm unlocking a realm of possibilities. 🌌 " ,
+		// title: "I’m Jihadul. I live in New Jersey, where I'm unlocking a realm of possibilities. 🌌 " ,		
+		title: "An inner-city visionary, fueled by hunger to unlock boundless realms of possibilities. 🌌 ",
 		description:
 			"Passionate about creating innovative software solutions, I have a proven track record of successfully completing projects that meet business needs. With a keen eye for detail, I strive for excellence in every line of code I write. I am dedicated to continuously expanding my skill set and staying updated with the latest industry trends and technologies. Through my strong problem-solving abilities, I tackle challenges head-on and find creative solutions. As a proactive learner, I actively engage in online courses and participate in coding competitions to sharpen my skills. Let's collaborate and bring your ideas to life with my expertise.",
+
 	},
 
 	projects: [
 		{
-			title: "Project 1",
+			title: "Typing Test",
 			description:
-				"COMING SOON",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				"Built with React JS, allows for efficient and dynamic updates to site based on user inputs. Utilization of Tailwind CSS, allows for a consistent and visually appealing design.Users can practice typing skills and track results, this feature is seamlessly integrated into the user interface.",
+			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "react.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "jihxdul.github.io/TypingTest",
 		},
 
 		{
 			title: "Project 2",
 				description:
 				"COMING SOON",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "react.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -47,7 +50,7 @@ const INFO = {
 			title: "Project 3",
 			description:
 				"COMING SOON",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+				logo: "react.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -56,7 +59,7 @@ const INFO = {
 			title: "Project 4",
 			description:
 				"COMING SOON",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "react.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -65,7 +68,7 @@ const INFO = {
 			title: "Project 5",
 			description:
 				"COMING SOON",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "react.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
@@ -73,7 +76,7 @@ const INFO = {
 			title: "Project 6",
 			description:
 				"COMING SOON",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			logo: "react.png",
 			linkText: "View Project",
 			link: "https://github.com",
 		},
