@@ -34,7 +34,8 @@ const INFO = {
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			logo: "react.png",
 			linkText: "View Project",
-			link: "jihxdul.github.io/TypingTest",
+			link: "https://jihxdul.github.io/TypingTest",
+			
 		},
 
 		{
