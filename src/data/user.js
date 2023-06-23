@@ -41,7 +41,7 @@ const INFO = {
 		{
 			title: "Spotify Album Finder",
 				description:
-				"Discover and explore artists' discographies with the ReactJS and Bootstrap-powered Spotify Album Finder. Using the Spotify Web API, effortlessly search for any artist and instantly view their albums. Enjoy beautiful album displays with cover art, release dates, and more. Plus, easily open albums on Spotify for a seamless listening experience. Start your musical journey today!",
+				"Discover and explore artists' discographies with the ReactJS and Bootstrap-powered Spotify Album Finder. Using the Spotify Web API, effortlessly search for any artist and instantly view their albums. Enjoy beautiful album displays with cover art, release dates, and more. Plus, easily open albums on Spotify for a seamless listening experience!",
 			logo: "react.png",
 			linkText: "View Project",
 			link: "https://spotify-album-finder.netlify.app/",
