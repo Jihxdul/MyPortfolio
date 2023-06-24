@@ -32,7 +32,7 @@ const INFO = {
 			description:
 				"Built with React JS, allows for efficient and dynamic updates to site based on user inputs. Utilization of Tailwind CSS, allows for a consistent and visually appealing design.Users can practice typing skills and track results, this feature is seamlessly integrated into the user interface.",
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			logo: "react.png",
+			logo: "typescript.png",
 			linkText: "View Project",
 			link: "https://jihxdul.github.io/TypingTest",
 			
