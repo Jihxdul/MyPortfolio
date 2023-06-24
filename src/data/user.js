@@ -34,7 +34,7 @@ const INFO = {
 			// logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			logo: "typescript.png",
 			linkText: "View Project",
-			link: "https://jihxdul.github.io/TypingTest",
+			link: "https://typingtest-jihxdul.netlify.app/",
 			
 		},
 
@@ -48,12 +48,12 @@ const INFO = {
 		},
 
 		{
-			title: "Project 3",
+			title: "Weather App",
 			description:
-				"COMING SOON",
+				"Incorporated HTML, CSS, and JavaScript to develop a dynamic weather application that leverages the OpenWeatherMap API. This interactive application allows users to effortlessly search for weather information in any city of their choice. The user-friendly interface displays real-time weather conditions, temperature in Fahrenheit, humidity percentage, and wind speed in miles per hour. Implemented features include an intuitive search functionality and responsive design for seamless user experience across devices.",
 				logo: "react.png",
 			linkText: "View Project",
-			link: "https://github.com",
+			link: "https://weatherapp-jihadul.netlify.app/",
 		},
 
 		{
