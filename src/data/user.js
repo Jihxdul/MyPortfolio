@@ -50,7 +50,7 @@ const INFO = {
 		{
 			title: "Weather App",
 			description:
-				"Developed a dynamic weather application using HTML, CSS, and JavaScript, leveraging the OpenWeatherMap API. Enables easy search for weather information in any city. Displays real-time conditions, Fahrenheit temperature, humidity, and wind speed in mph. Features intuitive search and responsive design for seamless user experience. Delivered reliable and visually appealing weather app, providing up-to-date details in Fahrenheit for any location.",
+				"Built a user-friendly weather application using HTML, CSS, and JavaScript, integrating the OpenWeatherMap API to provide real-time weather conditions, Fahrenheit temperature, humidity, and wind speed in mph for any desired location.",
 				logo: "js.png",
 			linkText: "View Project",
 			link: "https://weatherapp-jihadul.netlify.app/",
